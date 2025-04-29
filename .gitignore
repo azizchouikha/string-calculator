@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Dossier de build ou de distribution
+dist/
+coverage/
+
+# Fichiers d’environnement
+.env
+
+# Dossier de configuration VSCode
+.vscode/
+
+# Logs
+npm-debug.log*
